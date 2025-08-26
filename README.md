@@ -79,5 +79,6 @@ Marketing Optimization:
 Healthcare marketing teams can use these insights to promote less congested services or highlight improvements in patient care and turnaround times.
 
 6. Screenshots / Demos
-7. 
+7. https://github.com/MaheshKumar434oc/hospital-dashboard/blob/main/Project_Summary.png
+8. 
 
