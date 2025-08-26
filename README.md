@@ -80,5 +80,8 @@ Healthcare marketing teams can use these insights to promote less congested serv
 
 6. Screenshots / Demos
 7. https://github.com/MaheshKumar434oc/hospital-dashboard/blob/main/Project_Summary.png
-8. 
+8. This is the snap shot of the Summary page which have the key visuals to analyse the data and understand better.
+  
+10. https://github.com/MaheshKumar434oc/hospital-dashboard/blob/main/Project_Detailed_view.png
+11. This is the snap shot of the detailed view page which shows a detailed view of the data showing the insides of the data without a hectic trip to the file it self.
 
