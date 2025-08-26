@@ -15,7 +15,7 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and sharing; export options include PDF and image formats for reporting.
 
 4. Data Source
-Source: (Link to be provided)
+Source: https://github.com/MaheshKumar434oc/hospital-dashboard/blob/main/Hospital-dashboard-data.zip
 The dataset comprises over 500,000 rows of hospital patient records extracted from eight separate CSV files, later cleaned, transformed, and merged into a unified model.
 This comprehensive dataset captures data points including:
 •	Case Type (Inpatient, Outpatient, Day Case)
